@@ -1,6 +1,6 @@
 import { api } from "./api";
 import { getCityByNameService } from '@services/getCityByNameService';
-import { mockCityAPIResponse } from '@mocks/mockCityAPIResponse';
+import { mockCityAPIResponse } from '@mocks/api/mockCityAPIResponse';
 
 describe('Service: getCityByNameService', () => {
   it('should be return a city details', async () => {
