@@ -119,8 +119,8 @@ iweather
 ## Screenshoots
 
 <div align="center">
-  <img alt="Screenshot" src="./src/assets/screenshot1.png" width="300" height="600">
-  <img alt="Screenshot" src="./src/assets/screenshot2.png" width="300" height="600">
-  <img alt="Screenshot" src="./src/assets/screenshot3.png" width="300" height="600">
-  <img alt="Screenshot" src="./src/assets/screenshot4.png" width="300" height="600">
+  <img alt="Screenshot" src="./src/assets/screenshots/screenshot1.png" width="300" height="600">
+  <img alt="Screenshot" src="./src/assets/screenshots/screenshot2.png" width="300" height="600">
+  <img alt="Screenshot" src="./src/assets/screenshots/screenshot3.png" width="300" height="600">
+  <img alt="Screenshot" src="./src/assets/screenshots/screenshot4.png" width="300" height="600">
 </div>
